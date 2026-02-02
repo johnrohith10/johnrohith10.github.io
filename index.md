@@ -1,6 +1,5 @@
-# Hi, I’m John Rohith 👋
 
-I’m building projects at the intersection of data, analytics, and problem-solving. 
+I’m building projects at the intersection of sports data, customer analytics and most importantly finding the gap. 
 From a young age, I've been very fond of speaking, presenting, people, and networking. 
 
 This site is where I document what I build, what I learn, and what I’m experimenting with. 
@@ -15,9 +14,9 @@ This site is where I document what I build, what I learn, and what I’m experim
 ---
 
 ## Projects
-Coming soon : Building a predictive model in the betting industry, currently refining the problem scope.
+Coming soon: Building a predictive model in the betting industry, currently refining the problem scope !
 
-Master’s Degree Project : Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
+Master’s Degree Project: Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
 
 ---
 

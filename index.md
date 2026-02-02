@@ -45,7 +45,7 @@ You'll know more about what I build, what I learn, and what I’m experimenting 
 - **Analytics & Modelling:** Regression, Time Series, Predictive Modelling, Clustering, Segmentation  
 - **Data & BI:** SQL (PostgreSQL), Power BI (DAX), Advanced Excel  
 - **Programming:** R (dplyr, recipes, MICE)  
-- **Business:** Commercial Strategy, VoC Analysis, Stakeholder Reporting, Growth & CX
+- **Business:** Commercial Strategy, VoC Analysis, Stakeholder Reporting, Growth & CX. 
 
 ---
 

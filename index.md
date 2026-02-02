@@ -10,14 +10,14 @@ This site is where I document what I build, what I learn, and what I’m experim
 ## What I’m working on
 - Data analytics & visualization projects  
 - Real-world problem solving using SQL, Python, and BI tools  
-- Building SkillzCollab were we help creators show proof of work. Making it effortless for brands to source UGC. 
+- Building SkillzCollab were we help creators show proof of work. Making it effortless for brands to source UGC.
 
 ---
 
 ## Projects
-Coming soon — Building a predictive model in the betting industry, currently refining the problem scope.
+Coming soon : Building a predictive model in the betting industry, currently refining the problem scope.
 
-Master’s Degree Project - Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
+Master’s Degree Project : Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
 
 ---
 

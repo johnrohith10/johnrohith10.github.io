@@ -1,8 +1,9 @@
 
-I'm John. I’m building projects at the intersection of sports data, customer analytics, and looking to make a real difference in this space. 
-From a young age, I've been very fond of speaking, presenting, people, and networking. 
+I'm John. I’m building projects at the intersection of sports data, customer analytics, and sales. 
 
-This site is where I document what I build, what I learn, and what I’m experimenting with. 
+From a young age, I've been very fond of speaking, presenting and networking.
+
+You'll know more about what I build, what I learn, and what I’m experimenting with. 
 
 ---
 
@@ -14,13 +15,13 @@ This site is where I document what I build, what I learn, and what I’m experim
 ---
 
 ## Projects
-Coming soon: Building a predictive model in the betting industry, currently refining the problem scope!
+In pipeline: Building a predictive model in the betting industry, currently refining the problem scope!
 
 Master’s Degree Project: Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/john-rohith-j-a411b8108/
-- GitHub: https://github.com/johnrohith10
-- Email: jr054279@gmail.com
+- LinkedIn: [john-rohith-j](https://www.linkedin.com/in/john-rohith-j-a411b8108/)
+- GitHub: [johnrohith10](https://github.com/johnrohith10)
+- Email: [jr054279@gmail.com](mailto:jr054279@gmail.com)

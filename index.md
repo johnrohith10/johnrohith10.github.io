@@ -50,9 +50,9 @@ You'll know more about what I build, what I learn, and what I’m experimenting 
 ---
 
 ## Projects
-In pipeline: Building a predictive model in the betting industry, currently refining the problem scope!
+**In pipeline:** Building a predictive model in the betting industry, currently refining the problem scope!
 
-Master’s Degree Project: Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
+**Master’s Degree Project:** Analysed how industrial emissions and climate variability affect respiratory health in Ireland using time-series modelling in R.
 
 ---
 
